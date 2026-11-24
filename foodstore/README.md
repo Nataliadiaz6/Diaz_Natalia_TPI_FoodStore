@@ -8,7 +8,7 @@ Tutor: Gianfranco Canciani
 
 Aplicación web de pedidos de comida. Backend **FastAPI + SQLModel + PostgreSQL** (arquitectura en capas con Unit of Work, JWT en cookie HttpOnly) y frontend **React + TypeScript + Vite + Tailwind** (TanStack Query/Form/Table, Zustand, Axios).
 
-- Repositorio: [Repositorio: Diaz_Natalia_TPI_FoodStore](https://github.com/Nataliadiaz6/Diaz_Natalia_TPI_FoodStore.git)
+- Repositorio: [Diaz_Natalia_TPI_FoodStore](https://github.com/Nataliadiaz6/Diaz_Natalia_TPI_FoodStore.git)
 - Video de demostración: [Video Demostrativo Food Store](https://youtu.be/5Rx0Ovvb-UE)
 
 ## Requisitos
